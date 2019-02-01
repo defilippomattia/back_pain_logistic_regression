@@ -1,0 +1,1 @@
+The goal of this project is to predict whether a patient has back pain or not.Dataset consists of 310 observations and 13 attributes (12 numeric predictors and 1 binary class attribute). 
